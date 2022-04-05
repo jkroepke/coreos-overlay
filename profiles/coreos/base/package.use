@@ -17,9 +17,6 @@ app-emulation/qemu	aio caps curl -doc ncurses png python threads uuid vhost-net 
 
 sys-apps/gptfdisk -icu
 
-# for profile migration
-sys-libs/gdbm berkdb
-
 dev-vcs/git -pcre-jit -perl -iconv
 
 net-analyzer/nmap ncat -system-lua

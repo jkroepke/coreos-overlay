@@ -15,7 +15,6 @@ sys-block/parted        device-mapper
 sys-fs/lvm2		-readline
 sys-libs/ncurses	minimal
 sys-libs/pam		-berkdb audit
-sys-libs/gdbm		berkdb
 
 # enable journal gateway, bootctl and container features
 sys-apps/systemd audit gnuefi importd http nat
