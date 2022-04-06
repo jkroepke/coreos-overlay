@@ -49,8 +49,14 @@ RDEPEND="${RDEPEND}
 	dev-libs/libyaml
 	dev-libs/nspr
 	dev-libs/protobuf
+	dev-python/flit-core
+	dev-python/installer
 	dev-python/mako
+	dev-python/poetry-core
+	dev-python/pyproject2setuppy
 	dev-python/setuptools
+	dev-python/tomli
+	dev-python/wheel
 	dev-util/gdbus-codegen
 	dev-util/gperf
 	>=dev-util/gtk-doc-am-1.13
